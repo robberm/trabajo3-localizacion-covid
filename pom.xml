@@ -12,6 +12,7 @@
 	<name>trabajo3-localizacion-covid</name>
 	<url>http://www.example.com</url>
 
+<!--epa-->
 	<properties>
 		<java.version>21</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
